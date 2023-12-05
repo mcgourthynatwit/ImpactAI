@@ -10,7 +10,7 @@ The project emphasizes robust data processing, model tuning, and visualization o
 
 # Requirements 
 - PySpark(requires Apache Spark and Java on your local machine)
-- Pandas, MatplotLib, NumPy
+- Pandas, MatplotLib, NumPy, Seaborn
 - Python 3.11
 
 # Dataset 
