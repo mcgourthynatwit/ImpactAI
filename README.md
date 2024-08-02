@@ -26,7 +26,7 @@ https://www.kaggle.com/datasets/yakhyojon/customer-satisfaction-in-airline.
   - Encoding of categorical columns.
   - Selection of relevant feature columns for the model.
 3. Model Development:
-  - Creation of three separate model pipelines for Random Forest, Linear Regression, and Gradient Boosted Trees.
+  - Creation of three separate model pipelines for Random Forest, Logistic Regression, and Gradient Boosted Trees.
   - Splitting of data into 88% training and 12% testing sets.
   - Fitting model pipelines with training data.
 4. Model Evaluation:
